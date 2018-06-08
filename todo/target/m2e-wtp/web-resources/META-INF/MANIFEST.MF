@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Macchinetta Server Framework (1.x) Web Blank Pro
+ ject
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: yyamazak
+Implementation-Vendor-Id: todo
+Build-Jdk: 1.8.0_171
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Macchinetta Framework Team
+
